@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyOrganizer/static/css/main.29456612.css",
+    "main.js": "/DailyOrganizer/static/js/main.a38f33a8.js",
+    "index.html": "/DailyOrganizer/index.html",
+    "main.29456612.css.map": "/DailyOrganizer/static/css/main.29456612.css.map",
+    "main.a38f33a8.js.map": "/DailyOrganizer/static/js/main.a38f33a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29456612.css",
+    "static/js/main.a38f33a8.js"
+  ]
+}
