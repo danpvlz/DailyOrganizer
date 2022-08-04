@@ -1,0 +1,44 @@
+{
+    "ES": {
+        "common":{
+            "enterDescription":"Ingrese descripción",
+            "now":"Ahora",
+            "or":"ó",
+            "finish":"Terminar",
+            "keep":"Mantener"
+        },
+        "fullScreen": {
+            "enterFullScreen": "Pantalla completa",
+            "exitFullScreen": "Salir de pantalla completa"
+        },
+        "tasks": {
+            "title": "Tareas",
+            "new": "Nueva Tarea"
+        },
+        "pending": {
+            "title": "Pendientes",
+            "new": "Nuevo Pendiente"
+        }
+    },
+    "EN": {
+        "common":{
+            "enterDescription":"Enter description",
+            "now":"Now",
+            "or":"or",
+            "finish":"Finish",
+            "keep":"Keep"
+        },
+        "fullScreen": {
+            "enterFullScreen": "Pantalla completa",
+            "exitFullScreen": "Salir de pantalla completa"
+        },
+        "tasks": {
+            "title": "Tasks",
+            "new": "New Task"
+        },
+        "pending": {
+            "title": "Pendings",
+            "new": "New Pending"
+        }
+    }
+}
