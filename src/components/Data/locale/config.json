@@ -29,8 +29,8 @@
             "keep":"Keep"
         },
         "fullScreen": {
-            "enterFullScreen": "Pantalla completa",
-            "exitFullScreen": "Salir de pantalla completa"
+            "enterFullScreen": "Enter FullScreen",
+            "exitFullScreen": "Exit FullScreen"
         },
         "tasks": {
             "title": "Tasks",
