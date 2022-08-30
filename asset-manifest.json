@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DailyOrganizer/static/css/main.29456612.css",
-    "main.js": "/DailyOrganizer/static/js/main.a38f33a8.js",
+    "main.css": "/DailyOrganizer/static/css/main.28173846.css",
+    "main.js": "/DailyOrganizer/static/js/main.bfbfa29d.js",
     "index.html": "/DailyOrganizer/index.html",
-    "main.29456612.css.map": "/DailyOrganizer/static/css/main.29456612.css.map",
-    "main.a38f33a8.js.map": "/DailyOrganizer/static/js/main.a38f33a8.js.map"
+    "main.28173846.css.map": "/DailyOrganizer/static/css/main.28173846.css.map",
+    "main.bfbfa29d.js.map": "/DailyOrganizer/static/js/main.bfbfa29d.js.map"
   },
   "entrypoints": [
-    "static/css/main.29456612.css",
-    "static/js/main.a38f33a8.js"
+    "static/css/main.28173846.css",
+    "static/js/main.bfbfa29d.js"
   ]
 }
